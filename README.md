@@ -3,7 +3,9 @@ Cuba related geojsons
 
 Project for Cuba related geojson files.
 
-Now it has geojson files with cuban municipalities boundaries. One containing all cuban municipalities and others, one for each provinces, containing every province municipalities.
+Now it has geojson files with cuban provinces and municipalities boundaries.  
+
+For each case there is one file with the region boundaries (municipalieties or provinces) for the whole Cuba and others with the boundaries for each province.
 
 # to be fixed
 
