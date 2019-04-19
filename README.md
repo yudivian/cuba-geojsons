@@ -10,6 +10,9 @@ To create the geojson files with the municipalities boundaries we used the shape
 
 To create the geojson files with the provinces boundaries we used as base the one published at [Hicuba.com](https://www.hicuba.com/Mapas/geodata/provincias.json). This was corrected, edited and transformed in a similar way as the municipalities geojsons were.
 
+# provinces and municipalities codes
+For identification purpose each province and municipality have a DPA code (DPA means, in spanish, Administrative Political Division). The codes used were stablished by [Resolucion No. 129/2010](http://www.one.cu/resoluciones/2010res129.pdf) of ONEI (National Office of Statistics and Information)
+
 # to be fixed
 
 There are some problems with municipalities boundaries that will corrected in the future. The municipalities with the biggest problems are Esmeralda and Nuevitas, in Camaguey. Esmeralda has a part of its territory (a key) that belongs to Nuevitas. This will be the first thing to be corrected.
