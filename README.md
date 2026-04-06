@@ -16,3 +16,20 @@ For identification purpose each province and municipality have a DPA code (DPA m
 # to be fixed
 
 There are some problems with municipalities boundaries that will corrected in the future. The municipalities with the biggest problems are Esmeralda and Nuevitas, in Camaguey. Esmeralda has a part of its territory (a key) that belongs to Nuevitas. This will be the first thing to be corrected.
+
+## Citation
+
+If you use this data in your research or project, please cite it as:
+
+**APA Style:**
+> Yudivián Almeida Cruz. (2019). Cuba GeoJSON Datasets: Municipalities and Provinces (Version 1.0.0) [Data set]. GitHub. https://github.com/yudivian/cuba-geojsons
+
+**BibTeX:**
+```bibtex
+@software{cuba_geojsons_2026,
+  author = {Almeida Cruz, Yudivián},
+  title = {{Cuba GeoJSON Datasets: Municipalities and Provinces}},
+  url = {[https://github.com/yudivian/cuba-geojsons](https://github.com/yudivian/cuba-geojsons)},
+  version = {1.0.0},
+  year = {2019}
+}
