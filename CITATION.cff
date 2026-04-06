@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use these, please cite them as follows."
+authors:
+- family-names: "Almeida Cruz"
+  given-names: "Yudivián"
+  orcid: "https://orcid.org/0000-0002-2345-1387" 
+title: "Cuba GeoJSON Datasets: Municipalities and Provinces"
+version: 1.0.0
+date-released: 2019-01-01
+url: "https://github.com/yudivian/cuba-geojsons"
